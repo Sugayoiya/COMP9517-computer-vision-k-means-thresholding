@@ -20,7 +20,6 @@ Numpy, Numba
   ● Output: a binary image
 
   ● Testing sequence:
-
     `python3 k_means_thresholding.py input_image_1.jpg output_binary.jpg`
 
 #### step2: filtering and thresholding of the greyscale image
@@ -30,7 +29,6 @@ Numpy, Numba
   ● Output: a binary image
 
   ● Testing sequence:
-
     `python3 filtered_k_means_thresholding.py input_image_1.jpg output_binary.jpg`
 
 #### step3: partitioning similar neighbourhood pixels in output of Step 2 using connected components
@@ -40,7 +38,7 @@ Numpy, Numba
   ● Outputs: the number of eggs with area larger than **n** pixels in the image written to stdout AND write a colour image to ./output_eggs.jpg where each egg found is a **different colour**.
 
   ● Testing sequence:
-    `python3 count_eggs_4.py 50 output_binary.jpg labeled.jpg`
+  `python3 count_eggs_4.py 50 output_binary.jpg labeled.jpg`
 
 > input image:
 
