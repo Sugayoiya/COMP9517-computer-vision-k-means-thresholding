@@ -20,3 +20,8 @@ step2:
 
 step3:
 `python3 count_eggs_4.py output_binary.jpg labeled.jpg`
+
+
+![alt text](https://github.com/mokomokoo/COMP9517-computer-vision-k-means-thresholding/blob/master/input_image_1.jpg)
+![alt text](https://github.com/mokomokoo/COMP9517-computer-vision-k-means-thresholding/blob/master/output_binary.jpg)
+![alt text](https://github.com/mokomokoo/COMP9517-computer-vision-k-means-thresholding/blob/master/labeled.png)
